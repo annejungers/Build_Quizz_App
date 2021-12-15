@@ -9,7 +9,7 @@ This project is related to my learning of Oriented Object Programming in Javascr
 
 ## Pictures
 
-![QuizzApp picture](/image/quizzapp.png)
+![](./image/quizzapp.png)
 
 
 
