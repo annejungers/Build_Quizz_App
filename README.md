@@ -7,6 +7,10 @@ This project is related to my learning of Oriented Object Programming in Javascr
 + CSS
 + Javascript
 
+## Pictures
+
+[QuizzApp picture](/image/quizzapp.png)
+
 
 
 
