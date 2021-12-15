@@ -10,6 +10,12 @@ This project is related to my learning of Oriented Object Programming in Javascr
 ## Pictures
 
 ![](./image/quizzapp.PNG)
+</br>
+</br>
+
+![](./image/quizzapp2.PNG)
+
+
 
 
 
